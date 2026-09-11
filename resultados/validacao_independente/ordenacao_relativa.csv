@@ -1,0 +1,7 @@
+imagem,metodo,deteccao_proxima,deteccao_distante,classe_proxima,classe_distante,mesma_classe,distancia_real_proxima_m,distancia_real_distante_m,margem_real_m,distancia_estimada_proxima_m,distancia_estimada_distante_m,margem_estimada_m,ordenacao_correta,erro_assinado_margem_m,erro_absoluto_margem_m,erro_percentual_absoluto_margem
+img2.jpeg,centro_api,4,1,Sphere Valve S,Globe Valve,False,0.680000,1.310000,0.630000,1.065093,2.842478,1.777385,True,1.147385,1.147385,182.124603
+img2.jpeg,obb_p10,4,1,Sphere Valve S,Globe Valve,False,0.680000,1.310000,0.630000,0.878830,1.735196,0.856366,True,0.226366,0.226366,35.931111
+img3.jpeg,centro_api,3,2,Sphere Valve S,Globe Valve,False,0.440000,1.310000,0.870000,0.541835,2.021220,1.479385,True,0.609385,0.609385,70.044253
+img3.jpeg,obb_p10,3,2,Sphere Valve S,Globe Valve,False,0.440000,1.310000,0.870000,0.521533,1.973405,1.451872,True,0.581872,0.581872,66.881839
+img4.jpeg,centro_api,3,1,Sphere Valve L,Sphere Valve L,True,0.680000,0.850000,0.170000,0.404566,0.681901,0.277335,True,0.107335,0.107335,63.138235
+img4.jpeg,obb_p10,3,1,Sphere Valve L,Sphere Valve L,True,0.680000,0.850000,0.170000,0.290823,0.648883,0.358060,True,0.188060,0.188060,110.623529

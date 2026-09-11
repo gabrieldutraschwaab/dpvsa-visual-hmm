@@ -1,0 +1,3 @@
+metodo,quantidade_pares,ordenacoes_corretas,acuracia_ordenacao_percentual,vies_margem_m,mae_margem_m,rmse_margem_m,quantidade_pares_mesma_classe,ordenacoes_corretas_mesma_classe,acuracia_mesma_classe_percentual
+centro_api,3,3,100.000000,0.621368,0.621368,0.752632,1,1,100.000000
+obb_p10,3,3,100.000000,0.332099,0.332099,0.376467,1,1,100.000000
