@@ -1,5 +1,5 @@
 imagem,posicao_relativa,distancia_real_m,referencia_medicao
-img1.jpeg,mais_proxima,0.83,lente_ao_centro_da_valvula
-img1.jpeg,mais_distante,1.51,lente_ao_centro_da_valvula
-img5.jpeg,mais_proxima,0.56,lente_ao_centro_da_valvula
-img5.jpeg,mais_distante,1.27,lente_ao_centro_da_valvula
+img1.jpeg,mais_proxima,0.83,lente_ao_centro_da_alavanca
+img1.jpeg,mais_distante,1.51,lente_ao_centro_da_alavanca
+img5.jpeg,mais_proxima,0.56,lente_ao_centro_da_alavanca
+img5.jpeg,mais_distante,1.27,lente_ao_centro_da_alavanca

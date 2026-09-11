@@ -1,0 +1,5 @@
+imagem,posicao_relativa,numero_rosa,deteccao,classe,criterio_associacao
+img1.jpeg,mais_proxima,1,4,Sphere Valve S,inspecao_visual
+img1.jpeg,mais_distante,2,5,Sphere Valve L,inspecao_visual
+img5.jpeg,mais_proxima,1,4,Sphere Valve L,inspecao_visual
+img5.jpeg,mais_distante,2,2,Sphere Valve L,inspecao_visual
