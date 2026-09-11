@@ -1,0 +1,3 @@
+metodo,quantidade_medicoes,vies_m,mae_m,rmse_m,mediana_erro_absoluto_m,mape_percentual,erro_maximo_absoluto_m
+centro_api,6,0.381182,0.529027,0.720776,0.330264,51.888613,1.532478
+obb_p10,6,0.129778,0.326543,0.378371,0.295147,35.293671,0.663405

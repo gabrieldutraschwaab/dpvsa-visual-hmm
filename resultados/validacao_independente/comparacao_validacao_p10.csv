@@ -1,0 +1,7 @@
+imagem,numero_rosa,posicao_relativa,deteccao,classe,distancia_real_m,distancia_centro_api_m,distancia_obb_p10_m,amplitude_p90_p10_m,erro_assinado_centro_api_m,erro_absoluto_centro_api_m,erro_percentual_absoluto_centro_api,erro_assinado_obb_p10_m,erro_absoluto_obb_p10_m,erro_percentual_absoluto_obb_p10
+img2.jpeg,1,mais_proxima,4,Sphere Valve S,0.680000,1.065093,0.878830,1.947910,0.385093,0.385093,56.631365,0.198830,0.198830,29.239689
+img2.jpeg,2,mais_distante,1,Globe Valve,1.310000,2.842478,1.735196,1.894438,1.532478,1.532478,116.983028,0.425196,0.425196,32.457695
+img3.jpeg,1,mais_proxima,3,Sphere Valve S,0.440000,0.541835,0.521533,0.254039,0.101835,0.101835,23.144301,0.081533,0.081533,18.530218
+img3.jpeg,2,mais_distante,2,Globe Valve,1.310000,2.021220,1.973405,0.156666,0.711220,0.711220,54.291608,0.663405,0.663405,50.641637
+img4.jpeg,1,mais_proxima,3,Sphere Valve L,0.680000,0.404566,0.290823,0.222184,-0.275434,0.275434,40.505059,-0.389177,0.389177,57.231928
+img4.jpeg,2,mais_distante,1,Sphere Valve L,0.850000,0.681901,0.648883,1.052255,-0.168099,0.168099,19.776316,-0.201117,0.201117,23.660861
