@@ -1,0 +1,7 @@
+imagem,numero_rosa,posicao_relativa,deteccao,classe,distancia_real_m
+img2.jpeg,1,mais_proxima,4,Sphere Valve S,0.68
+img2.jpeg,2,mais_distante,1,Globe Valve,1.31
+img3.jpeg,1,mais_proxima,3,Sphere Valve S,0.44
+img3.jpeg,2,mais_distante,2,Globe Valve,1.31
+img4.jpeg,1,mais_proxima,3,Sphere Valve L,0.68
+img4.jpeg,2,mais_distante,1,Sphere Valve L,0.85
