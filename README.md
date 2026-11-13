@@ -86,7 +86,7 @@ O contrato produzido para o HMM contém, entre outros campos:
 `sequencia_id`, `t`, `x_observado`, `y_observado` e `z_observado`. A classe
 detectada restringe os candidatos antes da associação probabilística.
 
-## Demonstração rápida para a reunião
+## Demonstração rápida
 
 A demonstração abaixo utiliza os resultados já salvos e o notebook local do
 HMM. Ela não precisa iniciar a API nem executar novamente os modelos de visão.
